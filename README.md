@@ -1,3 +1,11 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yesiamvishal/yesiamvishal/refs/heads/main/assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yesiamvishal/yesiamvishal/refs/heads/main/assets/light.svg">
+  <img alt="Vishal Jangid" src="https://raw.githubusercontent.com/yesiamvishal/yesiamvishal/refs/heads/main/assets/dark.svg" width="100%">
+</picture>
+
+
+
 ## Hi there 👋
 
 <!--
